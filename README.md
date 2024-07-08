@@ -56,6 +56,3 @@ it contains just 1 screens
 |- Google Drive
     |- ["Google Drive link"](https://drive.google.com/file/d/1pEPpy-uuS31mNxenVUqm9OERUQCKjvte/view?usp=sharing)
     
-
-**Quick Note**
-NB: This project does not make use of any plugins or dependencies only those provided by Flutter framework
