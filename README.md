@@ -50,7 +50,7 @@ it contains just 1 screens
 
 ## Project Link
 |- Github
-    |- ["Github link"](https://github.com/genteel25/genteel_store)
+    |- ["Github link"](https://github.com/genteel25/retail_store)
 |- Appetize.io
     |- ["Appetize project link"](https://appetize.io/app/android/com.example.genteel_store?device=pixel7&osVersion=13.0)
 |- Google Drive
