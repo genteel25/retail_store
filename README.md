@@ -52,7 +52,7 @@ it contains just 1 screens
 |- Github
     |- ["Github link"](https://github.com/genteel25/retail_store)
 |- Appetize.io
-    |- ["Appetize project link"](https://appetize.io/app/android/com.example.genteel_store?device=pixel7&osVersion=13.0)
+    |- ["Appetize project link"](https://appetize.io/app/b_uo7wnt4ofqhpig3bfiitc2cvh4?device=pixel7&osVersion=13.0)
 |- Google Drive
     |- ["Google Drive link"](https://drive.google.com/file/d/1pEPpy-uuS31mNxenVUqm9OERUQCKjvte/view?usp=sharing)
     
